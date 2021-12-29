@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=+3.3 Pin=R1-2
+Added Pin To Net: NetName=+3.3v Pin=R1-2
+Added Member To Class: ClassName=MCU Member=Component U1 STM32F405RGT6

@@ -1,0 +1,15 @@
+Change Component Footprint: Designator=C8 Old Footprint=CAP 0805_2012 New Footprint=CAP 0603_1608
+Change Component Footprint: Designator=C11 Old Footprint=CAP 0805_2012 New Footprint=CAP 0603_1608
+Change Component Footprint: Designator=C12 Old Footprint=CAP 0805_2012 New Footprint=CAP 0603_1608
+Change Component Footprint: Designator=R5 Old Footprint=RES 0805_2012 New Footprint=RES 0603_1608
+Change Component Footprint: Designator=R6 Old Footprint=RES 0805_2012 New Footprint=RES 0603_1608
+Change Component Footprint: Designator=R7 Old Footprint=RES 0805_2012 New Footprint=RES 0603_1608
+Change Component Comment: Designator=C8 Old Comment==Value New Comment=22pF
+Change Component Comment: Designator=R6 Old Comment==Value New Comment=36.5 kOhms
+Change Component Comment: Designator=R9 Old Comment==Value New Comment=392 kOhms
+Change Component Comment: Designator=R5 Old Comment==Value New Comment=267 kOhms
+Change Component Comment: Designator=C12 Old Comment==Value New Comment=470pF
+Change Component Comment: Designator=R7 Old Comment==Value New Comment=267 kOhms
+Change Component Comment: Designator=C11 Old Comment==Value New Comment=1µF
+Change Pin Designator/Name:  Old Designator=R9-1 Old Name=1 New Designator =2 New Name=2
+Change Pin Designator/Name:  Old Designator=R9-2 Old Name=2 New Designator =1 New Name=1

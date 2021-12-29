@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=M1_SENSE_I Pin=U1-20
+Removed Pin From Net: NetName=M2_SENSE_I Pin=U1-21
+Added Pin To Net: NetName=M2_SENSE_I Pin=U1-20
+Added Pin To Net: NetName=M1_SENSE_I Pin=U1-21
+Added Member To Class: ClassName=MotorControl Member=Component D1 US1G R3G
+Added Member To Class: ClassName=MotorControl Member=Component D2 US1G R3G
+Added Member To Class: ClassName=MotorControl Member=Component D3 US1G R3G
+Added Member To Class: ClassName=MotorControl Member=Component D4 US1G R3G
+Added Member To Class: ClassName=MotorControl Member=Component D5 US1G R3G
+Added Member To Class: ClassName=MotorControl Member=Component D6 US1G R3G
+Added Member To Class: ClassName=MotorControl Member=Component D7 US1G R3G
+Added Member To Class: ClassName=MotorControl Member=Component D8 US1G R3G

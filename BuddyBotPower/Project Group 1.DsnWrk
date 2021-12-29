@@ -1,0 +1,6 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=BuddyBotPower.PrjPcb
+[Project2]
+ProjectPath=..\Parts\TPS61088RHLR\2021-01-31_10-50-26.LibPkg

@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=SWDIO Pin=J1-2
+Removed Pin From Net: NetName=SWCLK Pin=J1-4
+Removed Pin From Net: NetName=GND Pin=J1-5
+Removed Pin From Net: NetName=GND Pin=J1-9
+Removed Pin From Net: NetName=NRST Pin=J1-10
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=NRST Pin=J1-6
+Added Pin To Net: NetName=SWCLK Pin=J1-9
+Added Pin To Net: NetName=SWDIO Pin=J1-10
+Added Member To Class: ClassName=Power_12v Member=Component C5 470pF
+Added Member To Class: ClassName=MCU Member=Component U1 STM32F405RGT6

@@ -1,0 +1,8 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=..\MotorController\MotorController.PrjPcb
+[Project2]
+ProjectPath=..\Parts\MIC521933YM5TR\MIC521933YM5TR.LibPkg
+[Project3]
+ProjectPath=..\Parts\TPS61088RHLR\TPS61088RHLR.LibPkg
