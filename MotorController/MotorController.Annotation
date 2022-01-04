@@ -1,0 +1,19 @@
+[DesignatorManager]
+
+[SheetNumberManager]
+SheetNumberOrder=Display Order
+SheetNumberMethod=Increasing
+DocumentName0=MCU.SchDoc
+UniqueIDPath0=
+SheetNumber0=1
+DocumentName1=MotorControl.SchDoc
+UniqueIDPath1=
+SheetNumber1=2
+DocumentName2=Power_5v.SchDoc
+UniqueIDPath2=
+SheetNumber2=3
+DocumentName3=Power_12v.SchDoc
+UniqueIDPath3=
+SheetNumber3=4
+
+
